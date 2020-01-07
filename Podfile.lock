@@ -1,0 +1,42 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - IRAppearance (0.1.0)
+  - IRUIKit (0.1.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - IRAppearance (from `Lib/IRAppearance`)
+  - IRUIKit (from `Lib/IRUIKit`)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+
+EXTERNAL SOURCES:
+  IRAppearance:
+    :path: Lib/IRAppearance
+  IRUIKit:
+    :path: Lib/IRUIKit
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  IRAppearance: 47cac02354605839c3e52d5aea5f4d3bc79d2c3a
+  IRUIKit: 51274e470dc905cc8c59c80362ceecd13d909440
+
+PODFILE CHECKSUM: e30c67eca9ab368334b0a5e7318b979959a6dadd
+
+COCOAPODS: 1.9.0.beta.2

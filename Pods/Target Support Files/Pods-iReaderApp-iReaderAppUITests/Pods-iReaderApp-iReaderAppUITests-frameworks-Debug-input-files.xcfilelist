@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-iReaderApp-iReaderAppUITests/Pods-iReaderApp-iReaderAppUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/IRAppearance/IRAppearance.framework
+${BUILT_PRODUCTS_DIR}/IRUIKit/IRUIKit.framework

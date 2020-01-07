@@ -1,0 +1,22 @@
+{
+  "name": "IRAppearance",
+  "version": "0.1.0",
+  "summary": "A short description of IRAppearance.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liumenghua/IRAppearance",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liumenghua": "return_nil@163.com"
+  },
+  "source": {
+    "git": "https://github.com/liumenghua/IRAppearance.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "IRAppearance/Classes/**/*"
+}

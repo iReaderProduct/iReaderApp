@@ -1,0 +1,6 @@
+framework module IRAppearance {
+  umbrella header "IRAppearance-umbrella.h"
+
+  export *
+  module * { export * }
+}

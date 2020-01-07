@@ -1,0 +1,6 @@
+framework module IRUIKit {
+  umbrella header "IRUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
